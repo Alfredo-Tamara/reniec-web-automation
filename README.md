@@ -32,3 +32,14 @@ Desde la raíz del proyecto ejecutar:
 
 ```bash
 mvn clean test
+
+## 📊 Execution Report
+
+The Serenity execution report is included in this repository as:
+serenity.zip
+
+To view it:
+1. Download the zip file
+2. Unzip it
+3. Open index.html in a browser
+
